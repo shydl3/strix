@@ -1,5 +1,5 @@
 ---
-date: 2024-03-18T10:58:08-04:00
+date: 2014-03-18T10:58:08-04:00
 description: "How to deploy HUGO"
 featured_image: "/images/image-01-1-boss-store-soho-new-york.jpg"
 tags: ["Guides"]
