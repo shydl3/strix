@@ -64,6 +64,7 @@ Create new .md file in blog/content/posts folder
 
 
 Edit the configuration text inside .md file
+
 NOTE THE DATE DO NOT EXCEED THE TIME ON WEB SERVER!
 ```
 ---
