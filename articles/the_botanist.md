@@ -1,7 +1,7 @@
 ---
 date: 2022-02-22T10:58:08-04:00
 description: "The Botanist Islay Dry Gin"
-featured_image: "/images/the_botanist_featured.jpg"
+featured_image: "/images/the_botanist_00.jpg"
 tags: ["Gin"]
 categories: "Ingredients"
 title: "The Botanist"
