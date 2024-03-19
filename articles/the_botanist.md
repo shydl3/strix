@@ -1,7 +1,7 @@
 ---
 date: 2022-02-22T10:58:08-04:00
 description: "The Botanist Islay Dry Gin"
-featured_image: "/images/the_botanist.jpg"
+featured_image: "/images/the_botanist_featured.jpg"
 tags: ["Gin"]
 categories: "Ingredients"
 title: "The Botanist"
@@ -15,7 +15,7 @@ title: "The Botanist"
 
 ​																																																——**ADAM HANNETT, HEAD DISTILLER**
 
-![The_Botanist_Gin_Experience_Tour.jpg](/images/The_Botanist_Gin_Experience_Tour.jpg.jpg)
+![The_Botanist_Gin_Experience_Tour.jpg](/images/the_botanist_01.jpg)
 
 
 
@@ -43,7 +43,7 @@ Rich and mellow, cool on entry then warming across the palate, stimulating the t
 
 Relaxed and balanced. Water mint, hawthorn, wood sage, sweet cicely, cinnamon, citrus, soft juniper – a harmonious combination held together with a gentle, satin soft texture. The viscosity from an achingly slow distillation brings out the delicate essence of Islay, expressing a different balance of flavour, a different combination of botanicals, upon every taste.
 
-![formula](/images/formula.jpg)
+![formula](/images/the_botanist_02.jpg)
 
 
 
@@ -51,7 +51,7 @@ Relaxed and balanced. Water mint, hawthorn, wood sage, sweet cicely, cinnamon, c
 
 Biodiversity provides the foundation for all human life. From the food we eat to the water we drink, it all relies on a healthy ecosystem, and loss of biodiversity can weaken this. Thus, The Botanist has committed to protecting plant biodiversity and conservation practices since its inception. In 2015, the distillery set up The Botanist Foundation to promote sustainability, biodiversity and conservation. The foundation has since funded local and international projects that do vital work in this field such as the Global Botanic Garden Fund, which boosts funding for smaller gardens in developing countries and biodiversity hot spots.
 
-![the_botanist_4](/images/the_botanist_4.jpg)
+![the_botanist_4](/images/the_botanist_03.jpg)
 
 
 
