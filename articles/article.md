@@ -2,8 +2,8 @@
 date: 2018-09-11T10:58:08-04:00
 description: "For Those Who Dare"
 featured_image: "/images/transcendence.jpg"
-tags: ["ROG"]
-categories: "scene"
+tags: ["test"]
+categories: "ROG"
 title: "THE TRANSCENDENCE"
 ---
 # SCAR
