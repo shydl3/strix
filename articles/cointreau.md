@@ -7,7 +7,7 @@ categories: "Ingredients"
 title: "Cointreau"
 ---
 
-## Cointreau invented an entire category of liqueur.
+# Cointreau invented an entire category of liqueur.
 
 Authenticity, avant-garde, elegance.
 
@@ -19,7 +19,7 @@ Cointreau uses three types of orange in its liqueur: sweet, macerated, and bitte
 
 
 
-## Its oranges are well-traveled.
+# Its oranges are well-traveled.
 
 Cointreau is best known for one thing: orange liqueur. Though the spirit may sound simple, Cointreau’s triple sec is quite complex, made from three types of oranges sourced from across the globe. Its sweet orange peels are from Spain, Ghana, and Senegal, while its bitter oranges come from Brazil and Tunisia.
 
@@ -29,7 +29,7 @@ Cointreau hails proudly from the land of the baguette and croque monsieur, but y
 
 
 
-## Cosmopolitan
+# Cosmopolitan
 
 All traditional cosmos are made with roughly the same ingredients. Here's what you'll need for this cosmopolitan cocktail:
 
