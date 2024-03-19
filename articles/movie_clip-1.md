@@ -1,7 +1,7 @@
 ---
 date: 2021-07-18T10:58:08-04:00
 description: "Screenshot a Movie"
-featured_image: "/images/movie_clips_00.jpg"
+featured_image: "/images/movie_clips-1_00.jpg"
 tags: ["Picture"]
 categories: "Movie Clips"
 title: "Movie Clips #1"
@@ -49,5 +49,5 @@ title: "Movie Clips #1"
 
 ## Le Petit Soldat
 
-![movie_clips](/images/movie_clips#1_08.jpg)
+![movie_clips](/images/movie_clips-1_08.jpg)
 
