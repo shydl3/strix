@@ -37,10 +37,10 @@ All traditional cosmos are made with roughly the same ingredients. Here's what y
 Use high quality vodka for the most drinkable results.
 
 **Lime Juice**
-**Fresh lime juice is best. Don't throw that peel away! You can use it as a garnish.
+Fresh lime juice is best. Don't throw that peel away! You can use it as a garnish.
 
 **Cointreau Triple Sec**
-**Triple sec adds sweet, citrusy flavor and tones down the taste of the vodka.
+Triple sec adds sweet, citrusy flavor and tones down the taste of the vodka.
 
 **Cranberry Juice**
 You can use bottled or fresh cranberry juice. If the finished cocktail is too strong, you can add more juice to taste.
