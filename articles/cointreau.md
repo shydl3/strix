@@ -1,7 +1,7 @@
 ---
 date: 2021-08-02T10:58:08-04:00
 description: "Orange Liqueur Tripple Sec"
-featured_image: "/images/hugo_guides_00.jpg"
+featured_image: "/images/cointreau_00.jpg"
 tags: ["Liqueur"]
 categories: "Ingredients"
 title: "Cointreau"
