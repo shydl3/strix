@@ -11,23 +11,15 @@ title: "Movie Clips #1"
 
 ![movie_clips](/images/movie_clips#1_01.jpg)
 
-<br>
-
-
 
 ## The Batman 2022
 
 ![movie_clips](/images/movie_clips#1_02.jpg)
 
-<br>
-
-
 
 ## White Noise 2022
 
 ![movie_clips](/images/movie_clips#1_04.jpg)
-
-<br>
 
 
 
@@ -35,15 +27,11 @@ title: "Movie Clips #1"
 
 ![movie_clips](/images/movie_clips#1_03.jpg)
 
-<br>
-
 
 
 ## Seance on a Wet Afternoon 1964
 
 ![movie_clips](/images/movie_clips#1_05.jpg)
-
-<br>
 
 
 
@@ -51,13 +39,13 @@ title: "Movie Clips #1"
 
 ![movie_clips](/images/movie_clips#1_06.jpg)
 
-<br>
+
 
 ## Friday the 13th Part 1981
 
 ![movie_clips](/images/movie_clips#1_07.jpg)
 
-<br>
+
 
 
 
