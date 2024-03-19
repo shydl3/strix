@@ -82,7 +82,7 @@ title: "Chapter I: The Grand Hall"
 
 If the .md file contains pictures, make sure the image tag in the format below:
 
-==`![img_name](/images/img_name.png)`==
+`![img_name](/images/img_name.png)`
 
 
 
@@ -105,6 +105,7 @@ Finally, copy all HTML files generated in blog/public/ to /var/www/html
 cp -r public/. /var/www/html/
 
 
+![202403](/images/screenshot202403.png)
 
 # Ⅳ - Automation
 
