@@ -10,6 +10,7 @@ title: "HUGO Guides"
 # Ⅰ - Environment
 
 Download hugo release package version v68.3 from <https://github.com/gohugoio/hugo/releases/tag/v0.68.3>
+
 `wget https://github.com/gohugoio/hugo/releases/download/v0.68.3/hugo_0.68.3_Linux-64bit.deb`
 
 
