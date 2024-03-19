@@ -1,7 +1,7 @@
 ---
 date: 2018-07-11T10:58:08-04:00
 description: "How it works"
-featured_image: "/images/meek-and-domain-fronting-public-1-2048.jpg"
+featured_image: "/images/domain_fronting_featured.jpg"
 tags: ["C&C"]
 categories: "Security"
 title: "Domain Fronting"
@@ -21,7 +21,7 @@ CDN network can be used to host multiple domains, and deliver the requested cont
 
 ## HTTPS Tunneling
 
-![domain_fronting](/images/domain_fronting.jpg)
+![domain_fronting](/images/domain_fronting_01.jpg)
 
 
 
