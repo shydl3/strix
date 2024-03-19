@@ -1,7 +1,7 @@
 ---
 date: 2014-03-18T10:58:08-04:00
 description: "How to deploy HUGO"
-featured_image: "/images/image-01-1-boss-store-soho-new-york.jpg"
+featured_image: "/images/hugo_guides_featured.jpg"
 tags: ["Guides"]
 categories: "HUGO"
 title: "HUGO Guides"
@@ -33,7 +33,7 @@ Create new blog folder
 
 
 
-![hugo_preview](/images/hugo_preview.jpg)
+![hugo_preview](/images/hugo_guides_01.jpg)
 
 Download the [diary]<https://themes.gohugo.io/themes/hugo-theme-diary/> theme
 
