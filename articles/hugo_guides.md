@@ -105,7 +105,7 @@ Finally, copy all HTML files generated in blog/public/ to /var/www/html
 cp -r public/. /var/www/html/
 
 
-![202403](/images/screenshot202403.jpg)
+![202403](/images/hugo_guides_02.jpg)
 
 # Ⅳ - Automation
 
