@@ -33,6 +33,7 @@ In other words, the attacker can exploit this by initiating a connection to a le
 
 In domain fronting, the process is the same but it will make an HTTPS request that appears to be from a different domain. It does so by mimicking the secondary domain’s DNS and TLS requests which makes it seem as though the user has connected from another domain. This method is popular as a means to evade online censorship and bypass restrictions.
 
+![domain_fronting_02](/images/domain_fronting_02.jpg)
 
 
 ## Defense
