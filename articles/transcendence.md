@@ -1,7 +1,7 @@
 ---
 date: 2018-09-11T10:58:08-04:00
 description: "For Those Who Dare"
-featured_image: "/images/transcendence.jpg"
+featured_image: "/images/transcendence_featured.jpg"
 tags: ["test"]
 categories: "ROG"
 title: "THE TRANSCENDENCE"
@@ -24,7 +24,7 @@ nestled amidst rolling hills, the morning sun casts its warm glow upon cobblesto
 
 stands an ancient oak tree, its gnarled branches reaching skyward as if whispering secrets of centuries past. Beneath its shade, villagers gather to share stories and laughter, creating a tapestry of community woven with bonds of kinship and friendship.
 
-![s](/images/eva.jpg)
+![s](/images/transcendence_eva.jpg)
 
 
 
