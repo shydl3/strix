@@ -98,12 +98,14 @@ Br2024:
 尼康创意优化文件：
 (也可以放在sd存储卡根目录，从相机原图直出)
 
-![nxstudio](/images/nx_studio.jpg)
 
 ```
 链接：https://pan.baidu.com/s/1B7sGvWj12vJFahSvEucY9w?pwd=p7xa 
 提取码：p7xa
 ```
+
+
+![nxstudio](/images/nx_studio.jpg)
 
 
 ## IOS
