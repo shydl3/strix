@@ -93,10 +93,13 @@ Br2024:
 ![flow_lr](/images/flow_lr.jpg)
 
 ### NX Studio
-![nxstudio](/images/nx_studio.jpg)
+
 尼康的相机后期软件，可以导入尼康创意优化.NP3文件，后期套用。相当于预设。
 尼康创意优化文件：
 (也可以放在sd存储卡根目录，从相机原图直出)
+
+![nxstudio](/images/nx_studio.jpg)
+
 ```
 链接：https://pan.baidu.com/s/1B7sGvWj12vJFahSvEucY9w?pwd=p7xa 
 提取码：p7xa
