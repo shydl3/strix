@@ -1,7 +1,7 @@
 ---
 date: 2014-03-18T10:58:08-04:00
 description: "How to deploy HUGO"
-featured_image: "/images/hugo_guides_00.jpg"
+featured_image: "/images/transcendence.jpg"
 tags: ["Guides"]
 categories: "HUGO"
 title: "HUGO Guides"
@@ -33,7 +33,6 @@ Create new blog folder
 
 
 
-![hugo_preview](/images/hugo_guides_01.jpg)
 
 Download the [diary]<https://themes.gohugo.io/themes/hugo-theme-diary/> theme
 
@@ -105,7 +104,6 @@ Finally, copy all HTML files generated in blog/public/ to /var/www/html
 cp -r public/. /var/www/html/
 
 
-![202403](/images/hugo_guides_02.jpg)
 
 # Ⅳ - Automation
 
