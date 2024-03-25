@@ -39,7 +39,7 @@ XI Whisky&Cocktail
 
 藩篱之恨
 
-![DSC_0082](images/DSC_0082.JPG)
+![DSC_0082](/images/DSC_0082.JPG)
 
 
 
