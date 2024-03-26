@@ -1,7 +1,7 @@
 ---
 date: 2014-03-18T10:58:08-04:00
 description: "How to deploy HUGO"
-featured_image: "/images/transcendence.jpg"
+featured_image: "/images/the_transcendence.jpg"
 tags: ["Guides"]
 categories: "HUGO"
 title: "HUGO Guides"
