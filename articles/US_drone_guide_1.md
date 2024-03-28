@@ -1,7 +1,7 @@
 ---
 date: 2024-03-27T10:58:08-04:00
 description: "Regulations"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/DSC_0090.JPG"
 tags: ["DJI"]
 categories: "Guide"
 title: "US Drone Guides #1"
