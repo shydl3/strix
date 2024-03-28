@@ -23,7 +23,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 2. 遵守 [FAA-recognized Community Based Organization](https://www.faa.gov/uas/recreationalfliers/faa-recognized-community-based-organizations) (CBO) 安全飞行指引
 3. 保持视距飞行
 4. 为其他飞行器让路
-5. **在FAA管控区域 ([Class B, C, D, and surface Class E designated for an airport](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/airspace_101))飞行时，首先需要通过[LAANC ](https://www.faa.gov/uas/programs_partnerships/data_exchange)or [DroneZone](https://faadronezone.faa.gov/#/) 获得FAA批准；并且低于管控级别规定的高度。**
+5. **在FAA管控区域 ([Class B, C, D, and surface Class E designated for an airport](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/airspace_101))飞行时，首先需要通过[LAANC ](https://www.faa.gov/uas/programs_partnerships/data_exchange)or [DroneZone](https://faadronezone.faa.gov/#/) 获得FAA批准；并且低于管控级别规定的高度。(https://www.faa.gov/uas/commercial_operators/uas_facility_maps/)**
 6. **在非管控空域飞行 (Class G) 低于 400 feet (121.92 m)**   Note: Anyone flying a drone in the U.S. National Airspace System (NAS) is responsible for flying within the FAA guidelines and regulations. That means it is up to you as a drone pilot to know the rules: [Where Can I Fly?](https://www.faa.gov/uas/getting_started/where_can_i_fly) 
 7. 提前通过[ The Recreational UAS Safety Test (TRUST)](https://www.faa.gov/uas/recreational_fliers/knowledge_test_updates) 测试，飞行时携带测试通过证明。
 8. 拥有FAA注册（https://faadronezone.faa.gov/#/），机身外部贴有注册号码 ((https://www.faa.gov/sites/faa.gov/files/uas/recreational_fliers/UAS_how_to_label_Infographic.pdf) ，飞行时携带注册证明文件。
@@ -35,7 +35,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 
 The rule for operating unmanned aircraft systems (UAS) or drones under 0.55 pounds (249g) in the National Airspace System (NAS) is [14 CFR Part 107 (referred to as the Small UAS Rule)](https://www.faa.gov/uas/commercial_operators). However, if you want to fly a drone for purely recreational purposes, there is a limited statutory exception ("carve out") that provides a basic set of requirements.
 
-
+Unless specifically authorized by the FAA, recreational drone flying is limited to no more than 400ft above ground level in uncontrolled airspace, and is limited to UAS Facility Map (UASFM) altitudes in controlled airspace.
 
 ## What is a Recreational Flight?
 
