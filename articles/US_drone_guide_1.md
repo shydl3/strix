@@ -29,7 +29,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 8. 拥有FAA注册（https://faadronezone.faa.gov/#/），机身外部贴有注册号码 ((https://www.faa.gov/sites/faa.gov/files/uas/recreational_fliers/UAS_how_to_label_Infographic.pdf) ，飞行时携带注册证明文件。
 9. 飞行时注意national airspace system安全。
 
-
+***
 
 # FAA原文
 
