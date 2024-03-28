@@ -47,7 +47,7 @@ Remember, if you’re not sure which rules apply to your flight, fly under Part 
 
 
 
-## **Exception for Limited Recreational Operations** 
+## Exception for Limited Recreational Operations
 
 Congress created the **Exception for Limited Recreational Operations** of Unmanned Aircraft to allow those flying drones purely for fun or personal enjoyment to operate without complying with Part 107. People flying under this Exception are required to comply with all rules for recreational flyers.
 
