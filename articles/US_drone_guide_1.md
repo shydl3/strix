@@ -1,7 +1,7 @@
 ---
 date: 2024-03-27T10:58:08-04:00
 description: "Regulations"
-featured_image: "/images/DSC_0090.JPG"
+featured_image: "/images/air3.jpg"
 tags: ["DJI"]
 categories: "Guide"
 title: "US Drone Guides #1"
