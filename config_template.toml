@@ -19,7 +19,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "For Gamers. By Gamers"
+subtitle = "For Gamers. By Gamers."
 enableGitalk = false
 enableGiscus = false
 
