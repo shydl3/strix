@@ -57,7 +57,7 @@ You can find out if there are airspace restrictions where you are planning to fl
 A No Drone Zone sign lets you know that taking off or landing your drone from the designated area is not allowed, per local restrictions. Be aware that even if you have an airspace authorization to fly in the airspace over this area, you **do not have authorization to take off or land from the property** designated as a local No Drone Zone. **In other words, airspace authorization does not mean land use approval**.
 
 Restriction details of the TFR include, size, altitude, date/time, and what types of operations are restricted and permitted. All pilots are required to adhere to the restrictions of the TFR.
-[sign](/images/no_drone_zone_sign_thumb.jpg)
+![no_drone_zone_sign_thumb](/images/no_drone_zone_sign_thumb.jpg)
 
 ## 2. [Airspace Restrictions](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/airspace_restrictions)
 
