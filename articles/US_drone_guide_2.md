@@ -1,7 +1,7 @@
 ---
 date: 2024-03-27T11:58:08-04:00
 description: "Fly Zones"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/mavic3pro.jpg"
 tags: ["DJI"]
 categories: "Guide"
 title: "US Drone Guides #2"
