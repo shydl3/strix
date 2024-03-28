@@ -13,7 +13,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 
 # 总结
 
-在美国，低于55 pounds (24.94 kg) 的无人机受到 [Part 107.](https://www.faa.gov/uas/commercial_operators) (small UAS Rule) 通用监管 (Almost all non-recreational drone)。
+在美国，低于0.55 pounds (249g) 的无人机受到 [Part 107.](https://www.faa.gov/uas/commercial_operators) (small UAS Rule) 通用监管 (Almost all non-recreational drone)。
 
 纯粹个人娱乐目的 (purely for fun or personal enjoyment) 无人机可豁免Part 107，转而受[USC 44809](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44809&num=0&edition=prelim) 监管。
 
@@ -33,7 +33,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 
 # FAA原文
 
-The rule for operating unmanned aircraft systems (UAS) or drones under 55 pounds (24.94 kg) in the National Airspace System (NAS) is [14 CFR Part 107 (referred to as the Small UAS Rule)](https://www.faa.gov/uas/commercial_operators). However, if you want to fly a drone for purely recreational purposes, there is a limited statutory exception ("carve out") that provides a basic set of requirements.
+The rule for operating unmanned aircraft systems (UAS) or drones under 0.55 pounds (249g) in the National Airspace System (NAS) is [14 CFR Part 107 (referred to as the Small UAS Rule)](https://www.faa.gov/uas/commercial_operators). However, if you want to fly a drone for purely recreational purposes, there is a limited statutory exception ("carve out") that provides a basic set of requirements.
 
 
 
@@ -41,7 +41,7 @@ The rule for operating unmanned aircraft systems (UAS) or drones under 55 pounds
 
 Many people assume that a recreational flight simply means not flying for a business or being compensated. But, that's not always the case. Compensation, or the lack of it, is not what determines if a flight was recreational or not. Before you fly your drone, you need to know which regulations apply to your flight.
 
-The default regulation for drones weighing under **55 pounds (24.94 Kg)** is Part 107. Almost all non-recreational drone flying is regulated by [Part 107.](https://www.faa.gov/uas/commercial_operators)
+The default regulation for drones weighing under **0.55 pounds (249g)** is Part 107. Almost all non-recreational drone flying is regulated by [Part 107.](https://www.faa.gov/uas/commercial_operators)
 
 Remember, if you’re not sure which rules apply to your flight, fly under Part 107.
 
