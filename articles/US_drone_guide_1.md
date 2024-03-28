@@ -26,7 +26,7 @@ Reference: https://faadronezone-access.faa.gov/#/
 5. **在FAA管控区域 ([Class B, C, D, and surface Class E designated for an airport](https://www.faa.gov/uas/recreational_fliers/where_can_i_fly/airspace_101))飞行时，首先需要通过[LAANC ](https://www.faa.gov/uas/programs_partnerships/data_exchange)or [DroneZone](https://faadronezone.faa.gov/#/) 获得FAA批准；并且低于管控级别规定的高度(https://www.faa.gov/uas/commercial_operators/uas_facility_maps/)**
 6. **在非管控空域飞行 (Class G) 低于 400 feet (121.92 m)**   飞行区域参考 [Where Can I Fly?](https://www.faa.gov/uas/getting_started/where_can_i_fly) 
 7. 提前通过[ The Recreational UAS Safety Test (TRUST)](https://www.faa.gov/uas/recreational_fliers/knowledge_test_updates) 测试。飞行时携带测试通过证明。
-8. 拥有FAA注册（https://faadronezone.faa.gov/#/）。机身外部贴有注册号码 (https://www.faa.gov/sites/faa.gov/files/uas/recreational_fliers/UAS_how_to_label_Infographic.pdf) ，飞行时携带注册证明文件。
+8. 拥有FAA注册(https://faadronezone.faa.gov/#/)。机身外部贴有注册号码 (https://www.faa.gov/sites/faa.gov/files/uas/recreational_fliers/UAS_how_to_label_Infographic.pdf) ，飞行时携带注册证明文件。
 9. 飞行时注意national airspace system安全。
 
 ***
