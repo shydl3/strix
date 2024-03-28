@@ -14,7 +14,7 @@ title: "US Drone Guides #2"
 
 注意：2024年3月目前B4UFLY停止服务，需要FAA官网下载其他提供商的app，继续获得相关服务。例如AirHub，AutoPylot，Avision
 
-## No Drone Zone
+## 1. No Drone Zone
 
 此区域一般**禁止起降**无人机，但是**可以飞越空域**。
 
@@ -26,7 +26,7 @@ title: "US Drone Guides #2"
 
 
 
-## Airspace Restrictions
+## 2. Airspace Restrictions
 
 此区域一般包括：
 
