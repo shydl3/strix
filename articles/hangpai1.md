@@ -1,7 +1,7 @@
 ---
 date: 2024-04-11T10:58:08-04:00
 description: "风光，雪山，乡村"
-featured_image: "///images/hangpai1/hangpai-1/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/hangpai1/132609.png"
 tags: ["风景", "乡村", "雪山"]
 categories: "航拍"
 title: "航拍构图 #云南"
